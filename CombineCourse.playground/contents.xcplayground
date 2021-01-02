@@ -19,5 +19,8 @@
         <page name='Drop Until Output From'/>
         <page name='Prefix'/>
         <page name='Challenge Filter'/>
+        <page name='Prepend'/>
+        <page name='Append'/>
+        <page name='Switch To Latest'/>
     </pages>
 </playground>
