@@ -18,5 +18,6 @@
         <page name='Drop Until'/>
         <page name='Drop Until Output From'/>
         <page name='Prefix'/>
+        <page name='Challenge Filter'/>
     </pages>
 </playground>
