@@ -6,5 +6,17 @@
         <page name='Map KeyPath'/>
         <page name='Flat Map'/>
         <page name='Replace Nil'/>
+        <page name='Replace Empty'/>
+        <page name='Scan'/>
+        <page name='Filter'/>
+        <page name='Remove Duplicates'/>
+        <page name='Compact Map'/>
+        <page name='Ignore Output'/>
+        <page name='First'/>
+        <page name='Last'/>
+        <page name='Drop First'/>
+        <page name='Drop Until'/>
+        <page name='Drop Until Output From'/>
+        <page name='Prefix'/>
     </pages>
 </playground>
