@@ -22,5 +22,9 @@
         <page name='Prepend'/>
         <page name='Append'/>
         <page name='Switch To Latest'/>
+        <page name='Switch To Latest Practical Example'/>
+        <page name='Merge'/>
+        <page name='Combine Latest'/>
+        <page name='Zip'/>
     </pages>
 </playground>
