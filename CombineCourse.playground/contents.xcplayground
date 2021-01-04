@@ -26,5 +26,12 @@
         <page name='Merge'/>
         <page name='Combine Latest'/>
         <page name='Zip'/>
+        <page name='Min And Max'/>
+        <page name='First And Last'/>
+        <page name='Output'/>
+        <page name='Count'/>
+        <page name='Contains'/>
+        <page name='All Satisfy'/>
+        <page name='Reduce'/>
     </pages>
 </playground>
